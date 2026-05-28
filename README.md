@@ -303,9 +303,7 @@ irga_fingerprint_plugin-main/
 
 ## 5. Screenshots
 
-> Drop screenshots into `./screenshots/` as `1.jpeg`, `2.jpeg`, … — the references below resolve automatically.
-
-### Example app — hardware + capture demo
+<!-- ### Example app — hardware + capture demo
 ![Example app home (device-version banner)](./screenshots/1.jpeg)
 ![Check device connection — U4500B detected](./screenshots/2.jpeg)
 ![Check device connection — no scanner found](./screenshots/3.jpeg)
@@ -325,9 +323,8 @@ irga_fingerprint_plugin-main/
 
 ### Integration screenshots (host apps using the plugin)
 ![Worker attendance flow — fingerprint sign-on](./screenshots/11.jpeg)
-![Worker enrollment flow — capture + persist template](./screenshots/12.jpeg)
+![Worker enrollment flow — capture + persist template](./screenshots/12.jpeg) -->
 
----
 
 ## 6. Deployment Approach
 
