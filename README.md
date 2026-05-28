@@ -305,6 +305,7 @@ irga_fingerprint_plugin-main/
 
 [DigitalPersona U.are.U 4500 (U4500B) USB fingerprint reader](./screenshots/1.jpeg)
 [Physical Device](./screenshots/2.jpeg)
+
 <!-- ### Example app — hardware + capture demo
 ![Example app home (device-version banner)](./screenshots/1.jpeg)
 ![Check device connection — U4500B detected](./screenshots/2.jpeg)
