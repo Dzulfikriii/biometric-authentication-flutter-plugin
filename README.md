@@ -303,8 +303,8 @@ irga_fingerprint_plugin-main/
 
 ## 5. Screenshots
 
-[DigitalPersona U.are.U 4500 (U4500B) USB fingerprint reader](./screenshots/1.jpeg)
-[Physical Device](./screenshots/2.jpeg)
+![DigitalPersona U.are.U 4500 (U4500B) USB fingerprint reader](./screenshots/1.jpeg)
+![Physical Device](./screenshots/2.jpeg)
 
 <!-- ### Example app — hardware + capture demo
 ![Example app home (device-version banner)](./screenshots/1.jpeg)
